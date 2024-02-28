@@ -40,9 +40,9 @@
   @apply sm:min-w-[300px] bg-transparent text-white outline-none;
 }
 
-.error {
-  @apply text-pink-1 max-w-[380px] text-center;
-}
+/* .error {
+  @apply t max-w-[380px] text-center;
+} */
 
 .button {
   @apply w-full px-5 py-3 mt-5 mb-7 rounded-xl cursor-pointer bg-pink-2 hover:bg-pink-1 text-white text-body-bold;
